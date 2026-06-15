@@ -165,9 +165,9 @@ The notebook is designed for **Google Colab** with Google Drive mounted.
 ```
 .
 +-- RETO_VENTRICULOMEGALIA.ipynb    # Complete unified pipeline notebook
++-- docs/
+    +-- IEEE_PROCESAMIENTO.pdf      # Full IEEE-format report
 ```
-
-The IEEE report will be added to `docs/` when available.
 
 ---
 
